@@ -54,3 +54,6 @@ The subscriber successfully decrypted and displayed the messages. Each uniquely 
 # Conclusion
 I made sure the messages couldn't be linked to individuals by replacing real identities with UUIDs. I also encrypted the entire payload to keep the content hidden, even if someone intercepted it. These privacy enhancements work well together and don't slow down the system at all.
 
+## YouTube Presentation Video Link
+https://youtu.be/P7CIq9dX-30
+
